@@ -1,7 +1,7 @@
 {
     "name": "Distance 1",
     "segments": [
-      { "pace": 0, "time": 1 },
+      { "pace": 0, "time": 60 },
       { "pace": 1, "time": 150 },
       { "pace": 2, "time": 60 },
 
