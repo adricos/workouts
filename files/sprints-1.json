@@ -1,0 +1,47 @@
+{
+    "name": "Distance 1",
+    "segments": [
+      { "pace": 0, "time": 60 },
+      { "pace": 1, "time": 150 },
+      { "pace": 2, "time": 90 },
+
+      { "pace": 1, "time": 120 },
+      { "pace": 3, "time": 60 },
+      { "pace": 2, "time": 90 },
+
+      { "pace": 1, "time": 90 },
+      { "pace": 3, "time": 60 },
+      { "pace": 4, "time": 60 },
+
+      { "pace": 2, "time": 60 },
+      { "pace": 3, "time": 30 },
+      { "pace": 1, "time": 90 },
+
+      { "pace": 2, "time": 60 },
+      { "pace": 3, "time": 30 },
+      { "pace": 1, "time": 90 },
+
+      { "pace": 2, "time": 60 },
+      { "pace": 3, "time": 30 },
+      { "pace": 1, "time": 90 },
+
+      { "pace": 2, "time": 60 },
+      { "pace": 3, "time": 30 },
+      { "pace": 4, "time": 90 },
+
+      { "pace": 2, "time": 90 },
+      { "pace": 1, "time": 90 },
+      { "pace": 3, "time": 60 },
+
+      { "pace": 2, "time": 90 },
+      { "pace": 1, "time": 90 },
+      { "pace": 3, "time": 60 },
+
+      { "pace": 2, "time": 90 },
+      { "pace": 1, "time": 90 },
+      { "pace": 3, "time": 60 },
+
+      { "pace": 5, "time": 180 }
+
+   ]
+}
