@@ -24,6 +24,10 @@
       { "pace": 2, "time": 60 },
       { "pace": 1, "time": 90 },
       { "pace": 3, "time": 30 },
+      
+      { "pace": 2, "time": 60 },
+      { "pace": 1, "time": 90 },
+      { "pace": 3, "time": 30 },
 
       { "pace": 1, "time": 60 },
       { "pace": 3, "time": 30 },
