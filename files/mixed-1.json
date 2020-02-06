@@ -3,7 +3,7 @@
     "segments": [
       { "pace": 0, "time": 60 },
       { "pace": 1, "time": 120 },
-      { "pace": 3, "time": 30 },
+      { "pace": 3, "time": 60 },
 
       { "pace": 1, "time": 150 },
       { "pace": 2, "time": 120 },
